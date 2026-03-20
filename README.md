@@ -9,4 +9,4 @@ Sou estudante do Ensino Médio
 Moro na cidade de Dois Irmãos 
 Já fiz cursos de informatica básica e design gráfico há alguns anos
 No ano de 2025 terminei meu curso de Inglês, onde fiz em minha cidade, na escola Cult Idiomas
-Estou iniciando na área da TI 
+Estou iniciando na área da TI.
