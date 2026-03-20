@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **YasmimSchuck09/YasmimSchuck09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Me chamo Yasmim Gomes Schuck 
